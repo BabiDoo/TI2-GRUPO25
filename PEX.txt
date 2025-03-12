@@ -1,0 +1,40 @@
+PEX
+
+QUAL O DIFERENCIAL/INOVAÇÃO DO PROJETO EM RELAÇÃO AOS QUE JA EXISTEM?
+
+
+COMO O PROJETO SE SUSTENTAR? QUAIS SÃO OS MECANISMOS DE MONETIZAÇÃO?
+-cada escola tem projetos e vc so pode ver da sua escola
+mas voce pode pagar para ver todos os projetos disponiveis da sua cidade
+-nao deixamos de pensar numa expansão maior mas nao é o objetivo nesse momento
+
+ESSA É A PRIMEIRA VERSAO DO PROJETO
+
+---------------------------------------------------------------------------------------------------
+
+1)LEVANTAMENTO DE REQUISITOS
+
+2) FAZER O MINIMUNDO
+definir entidades
+atributos 
+relacionamentos
+restrições
+
+COMO VAMOS FAZER COM O FIGMA? 
+FLOWMAPP PARA USER FLOW?
+
+
+sprint1 
+
+Slides
+Minimundo  - texto corrido
+Telas 
+Alguns exemplos de user flows
+DB apresentação visual 
+cronograma do README
+
+
+
+
+
+
