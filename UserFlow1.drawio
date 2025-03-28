@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3" pages="4">
   <diagram name="Cadastro de Aluno" id="Kxj-sncLvuSgpgrLd5fi">
     <mxGraphModel dx="875" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,7 +194,99 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="oHT9obMtmWoEzxfzFdtg" name="Criação de Projeto (Orientador)">
+  <diagram name="Criação de Projeto (Orientador)" id="y9KebrOe-tO6__N8rVpo">
+    <mxGraphModel dx="1000" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-0" />
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-1" parent="n1pVTzIttGPscCmK2Lhh-0" />
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199" y="170" as="sourcePoint" />
+            <mxPoint x="199" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1" source="n1pVTzIttGPscCmK2Lhh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-4" value="Orientador faz login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry x="134" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1" source="n1pVTzIttGPscCmK2Lhh-10" target="n1pVTzIttGPscCmK2Lhh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-6" value="Página Inicial do Usuário Orientador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry x="139" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1" source="n1pVTzIttGPscCmK2Lhh-8" target="n1pVTzIttGPscCmK2Lhh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-8" value="Página de Formulário para criar novo projeto" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry x="139" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1" source="n1pVTzIttGPscCmK2Lhh-6" target="n1pVTzIttGPscCmK2Lhh-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199" y="280" as="sourcePoint" />
+            <mxPoint x="199" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-10" value="Orientador clica em &quot;Novo Projeto&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry x="94" y="300" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-12" value="Orientador preenche formulário" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry x="144" y="460" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n1pVTzIttGPscCmK2Lhh-26" value="CRIAÇÃO DE PROJETO&lt;div&gt;(ORIENTADOR)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry x="240" y="60" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuNflscjJhLv4EZ2he9_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1" source="n1pVTzIttGPscCmK2Lhh-12" target="CuNflscjJhLv4EZ2he9_-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="254" y="475" as="sourcePoint" />
+            <mxPoint x="349" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CuNflscjJhLv4EZ2he9_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1" source="CuNflscjJhLv4EZ2he9_-4" target="n1pVTzIttGPscCmK2Lhh-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="374" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CuNflscjJhLv4EZ2he9_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1" source="CuNflscjJhLv4EZ2he9_-1" target="CuNflscjJhLv4EZ2he9_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CuNflscjJhLv4EZ2he9_-1" value="Página de confirmação" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry x="324" y="427.5" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="CuNflscjJhLv4EZ2he9_-4" value="Operação cancelada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry x="309" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CuNflscjJhLv4EZ2he9_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1" source="CuNflscjJhLv4EZ2he9_-7" target="CuNflscjJhLv4EZ2he9_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CuNflscjJhLv4EZ2he9_-7" value="Operação confirmada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry x="473" y="460" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CuNflscjJhLv4EZ2he9_-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1" target="CuNflscjJhLv4EZ2he9_-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="477.5" as="sourcePoint" />
+            <mxPoint x="474" y="427.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CuNflscjJhLv4EZ2he9_-9" value="Página Inicial do Novo Projeto" style="whiteSpace=wrap;html=1;" vertex="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry x="483" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CuNflscjJhLv4EZ2he9_-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="n1pVTzIttGPscCmK2Lhh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="603" y="370" as="sourcePoint" />
+            <mxPoint x="734" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UN9iUtHbe0R6VMzgExkJ" name="Entidades e Restrições">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
