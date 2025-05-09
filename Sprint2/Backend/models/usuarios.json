@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "Barbara",
+    "email": "barbara@email.com",
+    "senha": "12345678",
+    "matricula": "123456",
+    "tipo": "aluno"
+  },
+  {
+    "nome": "UHSUHSHU",
+    "email": "HUASHDUASHDUHSD@USHDUHSAD.COM",
+    "senha": "123456789",
+    "matricula": "UHASUDHASUDH",
+    "tipo": "aluno"
+  },
+  {
+    "nome": "Administrador",
+    "email": "admin@email.com",
+    "senha": "12345678",
+    "matricula": "admin01",
+    "tipo": "admin"
+  }
+]
